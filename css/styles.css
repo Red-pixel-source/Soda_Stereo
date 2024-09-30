@@ -1,0 +1,28 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight:  400;
+    background-color:rgba(0, 0, 0, 0.885);
+}
+
+p {
+    color: white;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    text-decoration: underline blueviolet;
+    letter-spacing: 2px;
+}
+
+.wikipedia {
+    color: red;
+    
+}
+
+div {
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(30, 29, 29);
+}
